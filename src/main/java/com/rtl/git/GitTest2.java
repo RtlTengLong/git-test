@@ -12,5 +12,6 @@ public class GitTest2 {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("本地库进行修改 test");
+        System.out.println("本地库进行修改 test SSH的方式进行提交");
     }
 }
